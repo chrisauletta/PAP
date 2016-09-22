@@ -1,4 +1,8 @@
 //Script Cadastro Clientes 
+TESTE
+
+
+
 function validarForm() {
     if (document.formCliente.razaoSocial.value === "") {
         alert("Digite a Razão Social!");
