@@ -111,7 +111,7 @@ function  validarFormVendas() {
 function validarCampanha(){
 
 
-    }
+}
 
 //Script SAC
 function validarSAC(){
